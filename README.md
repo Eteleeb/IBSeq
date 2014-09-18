@@ -1,4 +1,4 @@
-IBSeq2
+IBSeq
 ======
 
-Island-Based Approach for Differential Expression Analysis
+An Island-Based Approach for Differential Expression Analysis
